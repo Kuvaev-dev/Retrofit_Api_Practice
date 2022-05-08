@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">API Practice</string>
+    <string name="vallet_course_header">Курс валют</string>
+    <string name="vallet_course_buy">Купівля</string>
+    <string name="vallet_course_pay">Продаж</string>
+    <string name="vallet_course_usd">USD</string>
+    <string name="vallet_course_usd_pay">0.00</string>
+    <string name="vallet_course_usd_buy">0.00</string>
+    <string name="vallet_course_eur">EUR</string>
+    <string name="vallet_course_eur_pay">0.00</string>
+    <string name="vallet_course_eur_buy">0.00</string>
+    <string name="vallet_course_rub">RUB</string>
+    <string name="vallet_course_rub_pay">0.00</string>
+    <string name="vallet_course_rub_buy">0.00</string>
+    <string name="vallet_course_result">Результаты запроса</string>
+    <string name="vallet_course_code">Статуус-код:</string>
+    <string name="vallet_course_res_code">400</string>
+    <string name="weather_header">Погода</string>
+    <string name="weather_code_text">Статус-код:</string>
+    <string name="weather_code">400</string>
+    <string name="weather_tmp_now">Температра сейчас:</string>
+    <string name="weather_tmp_now_val">0</string>
+    <string name="weather_tomorrow">Температра завтра:</string>
+    <string name="weather_tomorrow_val">0</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_amount">****ENTER AMOUNT****</string>
+    <string name="from_currency">From Currency:</string>
+    <string name="to_currency">To Currency:</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+</resources>
